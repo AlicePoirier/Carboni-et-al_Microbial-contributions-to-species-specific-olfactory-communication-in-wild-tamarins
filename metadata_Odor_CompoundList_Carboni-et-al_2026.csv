@@ -1,0 +1,692 @@
+Comp;CompName;OSample;RT;Area
+P103.02;Benzonitrile;2;8.302;4479
+P091.03;Benzeneacetaldehyde;2;9.79;4647
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;2;10.509;15371
+P057.24;2,2-Dimethyldecane;2;11.557;48679
+P057.43;Pentanedecanitrile;2;23.86;16080
+P043.06.47;Unidentified compound 22;2;28.675;4976
+P103.02;Benzonitrile;3;8.269;3296
+P091.03;Benzeneacetaldehyde;3;9.741;6298
+P069.13;Unidentified compound 10;3;11.423;7510
+P057.24;2,2-Dimethyldecane;3;11.509;45091
+P069.16;Nonylcyclopropane;3;12.946;71029
+P057.35;2,2-Dimethyltetradecane;3;19.196;1169557
+P043.06.25;Unidentified compound 13;4;16.711;139146
+P059.05;2-Methyldodecan-2-ol;4;17.692;133442
+P059.07;Unknown branched alcohol;4;21.209;375590
+P057.01;Methyl propanoate;5;2.477;48191
+P103.02;Benzonitrile;5;8.268;4058
+P091.03;Benzeneacetaldehyde;5;9.743;5717
+P057.22;Nonanal;5;11.189;33184
+P105.03;Unknown benzene derivative 2;5;12.444;1713
+P069.16;Nonylcyclopropane;5;12.942;80445
+P057.35;2,2-Dimethyltetradecane;5;19.2;1864574
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;6;10.572;6198
+P057.22;Nonanal;6;11.253;209831
+P060.05;Octanoic acid;6;12.372;10514
+P073.11;Pentadecanoic acid;6;23.84;2024449
+P071.01;Unidentified compound 01;7;2.87;53632
+P060.02;Butanoic acid;7;4.625;486234
+P059.05;2-Methyldodecan-2-ol;7;17.662;119651
+P057.35;2,2-Dimethyltetradecane;7;19.204;792499
+P121.02;Unidentified compound 15;7;19.387;14478
+P059.07;Unknown branched alcohol;7;21.176;158747
+P060.02;Butanoic acid;9;4.631;2751568
+P103.02;Benzonitrile;9;8.307;8929
+P091.03;Benzeneacetaldehyde;9;9.795;3811
+P059.05;2-Methyldodecan-2-ol;9;17.692;79711
+P043.06.32;Unidentified compound 16;9;20.767;43310
+P059.07;Unknown branched alcohol;9;21.202;99609
+P055.28;Unidentified compound 18;9;22.206;13610
+P103.02;Benzonitrile;10;8.325;1381
+P091.03;Benzeneacetaldehyde;10;9.783;4260
+P057.24;2,2-Dimethyldecane;10;11.553;70578
+P057.43;Pentanedecanitrile;10;23.858;92593
+P043.06.47;Unidentified compound 22;10;28.681;10780
+P103.02;Benzonitrile;11;8.274;1375
+P091.03;Benzeneacetaldehyde;11;9.752;6562
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;11;10.47;8927
+P069.16;Nonylcyclopropane;11;12.955;39419
+P057.35;2,2-Dimethyltetradecane;11;19.206;1592569
+P057.36;Tridecan-1-ol;11;20.227;29560
+P057.01;Methyl propanoate;13;2.49;22567
+P091.03;Benzeneacetaldehyde;13;9.763;7689
+P057.24;2,2-Dimethyldecane;13;11.591;14491
+P060.05;Octanoic acid;13;12.465;18090
+P069.16;Nonylcyclopropane;13;12.961;43987
+P057.35;2,2-Dimethyltetradecane;13;19.216;1713741
+P059.07;Unknown branched alcohol;13;21.186;8284
+P071.01;Unidentified compound 01;15;2.889;39263
+P070.02;Unidentified compound 09;15;11.334;427509
+P069.16;Nonylcyclopropane;15;12.963;154398
+P059.05;2-Methyldodecan-2-ol;15;17.667;182552
+P057.35;2,2-Dimethyltetradecane;15;19.215;830684
+P059.07;Unknown branched alcohol;15;21.183;391175
+P057.28;3,5-Dimethylundecane;17;13.424;3842
+P057.35;2,2-Dimethyltetradecane;17;19.204;193980
+P057.43;Pentanedecanitrile;17;23.827;13000
+P071.01;Unidentified compound 01;21;2.902;25760
+P055.06;Unidentified compound 04;21;6.859;30483
+P057.22;Nonanal;21;11.098;81657
+P043.06.25;Unidentified compound 13;21;16.702;103871
+P109.01;Unidentified compound 19;21;23.118;1490
+P057.43;Pentanedecanitrile;21;23.856;88046
+P057.22;Nonanal;22;11.102;88677
+P121.02;Unidentified compound 15;22;19.411;25178
+P043.06.32;Unidentified compound 16;22;20.762;75312
+P071.01;Unidentified compound 01;23;2.882;30300
+P070.02;Unidentified compound 09;23;11.315;490345
+P059.05;2-Methyldodecan-2-ol;23;17.651;286920
+P057.35;2,2-Dimethyltetradecane;23;19.194;765450
+P059.07;Unknown branched alcohol;23;21.168;553895
+P057.43;Pentanedecanitrile;23;23.82;77904
+P057.22;Nonanal;24;11.064;85012
+P069.16;Nonylcyclopropane;24;12.946;26107
+P057.35;2,2-Dimethyltetradecane;24;19.195;600458
+P057.36;Tridecan-1-ol;24;20.223;23147
+P043.06.47;Unidentified compound 22;24;28.64;18392
+P103.02;Benzonitrile;25;8.291;1533
+P059.05;2-Methyldodecan-2-ol;25;17.69;28306
+P057.43;Pentanedecanitrile;25;23.858;42576
+P070.02;Unidentified compound 09;26;11.335;757336
+P030.03;4,6-Dimethyldodecane;26;13.903;761753
+P043.06.25;Unidentified compound 13;26;16.686;175566
+P059.05;2-Methyldodecan-2-ol;26;17.667;254827
+P057.35;2,2-Dimethyltetradecane;26;19.212;1345879
+P059.07;Unknown branched alcohol;26;21.184;545699
+P054.01;Unidentified compound 03;27;5.219;3560
+P103.02;Benzonitrile;27;8.295;4371
+P091.03;Benzeneacetaldehyde;27;9.782;6797
+P057.22;Nonanal;27;11.104;73013
+P057.24;2,2-Dimethyldecane;27;11.55;39787
+P043.06.32;Unidentified compound 16;27;20.768;49415
+P043.06.47;Unidentified compound 22;27;28.686;13656
+P093.02;D-Limonene;28;9.036;3524
+P091.03;Benzeneacetaldehyde;28;9.745;6606
+P057.24;2,2-Dimethyldecane;28;11.509;37842
+P069.16;Nonylcyclopropane;28;12.944;88085
+P067.02;Unknown C14 branched alkane;28;16.825;8220
+P057.35;2,2-Dimethyltetradecane;28;19.195;1882315
+P121.02;Unidentified compound 15;28;19.368;23092
+P059.07;Unknown branched alcohol;28;21.159;5558
+P103.02;Benzonitrile;30;8.281;10478
+P091.03;Benzeneacetaldehyde;30;9.764;6021
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;30;10.486;9927
+P057.22;Nonanal;30;11.08;84726
+P057.24;2,2-Dimethyldecane;30;11.525;46133
+P105.03;Unknown benzene derivative 2;30;12.369;1761
+P060.05;Octanoic acid;30;12.462;17145
+P069.16;Nonylcyclopropane;30;12.96;85863
+P057.35;2,2-Dimethyltetradecane;30;19.212;1575156
+P057.43;Pentanedecanitrile;30;23.834;95401
+P069.16;Nonylcyclopropane;31;12.943;23721
+P057.35;2,2-Dimethyltetradecane;31;19.116;7744
+P057.36;Tridecan-1-ol;31;20.223;23055
+P059.07;Unknown branched alcohol;31;21.172;3221
+P057.43;Pentanedecanitrile;31;23.821;14796
+P054.01;Unidentified compound 03;32;5.214;5785
+P103.02;Benzonitrile;32;8.278;4543
+P091.03;Benzeneacetaldehyde;32;9.756;5396
+P044.05;Unidentified compound 07;32;10.82;64561
+P057.22;Nonanal;32;11.203;42990
+P069.16;Nonylcyclopropane;32;12.96;73770
+P057.35;2,2-Dimethyltetradecane;32;19.211;1540590
+P059.11;Nonanamide;32;27.559;1248
+P070.02;Unidentified compound 09;34;11.273;5138
+P069.16;Nonylcyclopropane;34;12.956;10588
+P057.28;3,5-Dimethylundecane;34;13.434;4397
+P030.03;4,6-Dimethyldodecane;34;13.891;6342
+P057.35;2,2-Dimethyltetradecane;34;19.127;14561
+P057.36;Tridecan-1-ol;34;20.232;17264
+P057.43;Pentanedecanitrile;34;23.833;5631
+P103.02;Benzonitrile;35;8.302;5340
+P091.03;Benzeneacetaldehyde;35;9.791;10267
+P057.22;Nonanal;35;11.104;150489
+P059.05;2-Methyldodecan-2-ol;35;17.692;19836
+P060.02;Butanoic acid;36;4.625;165070
+P091.03;Benzeneacetaldehyde;36;9.797;3559
+P043.06.25;Unidentified compound 13;36;16.71;57429
+P059.05;2-Methyldodecan-2-ol;36;17.694;32356
+P059.07;Unknown branched alcohol;36;21.205;69688
+P091.03;Benzeneacetaldehyde;39;9.758;5357
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;39;10.477;14924
+P044.05;Unidentified compound 07;39;10.813;106705
+P057.24;2,2-Dimethyldecane;39;11.525;57693
+P069.16;Nonylcyclopropane;39;12.959;93630
+P030.03;4,6-Dimethyldodecane;39;13.83;31074
+P057.35;2,2-Dimethyltetradecane;39;19.211;1976234
+P055.06;Unidentified compound 04;40;6.868;4752
+P069.16;Nonylcyclopropane;40;12.959;32344
+P057.35;2,2-Dimethyltetradecane;40;19.204;460919
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;41;10.56;2811892
+P070.02;Unidentified compound 09;41;11.322;835418
+P067.02;Unknown C14 branched alkane;41;16.817;6075
+P059.05;2-Methyldodecan-2-ol;41;17.653;283850
+P057.35;2,2-Dimethyltetradecane;41;19.197;842069
+P059.07;Unknown branched alcohol;41;21.171;592950
+P057.01;Methyl propanoate;43;2.473;40467
+P103.02;Benzonitrile;43;8.259;2545
+P091.03;Benzeneacetaldehyde;43;9.751;3785
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;43;10.47;5989
+P105.03;Unknown benzene derivative 2;43;12.42;1462
+P060.05;Octanoic acid;43;12.472;19377
+P069.16;Nonylcyclopropane;43;12.947;60277
+P057.28;3,5-Dimethylundecane;43;13.609;22788
+P057.35;2,2-Dimethyltetradecane;43;19.198;1326814
+P071.01;Unidentified compound 01;45;2.899;47440
+P043.06.25;Unidentified compound 13;45;16.708;177898
+P059.05;2-Methyldodecan-2-ol;45;17.691;346885
+P059.07;Unknown branched alcohol;45;21.207;764442
+P105.03;Unknown benzene derivative 2;46;12.402;1028
+P055.24;Unidentified compound 14;46;16.978;2963
+P057.35;2,2-Dimethyltetradecane;46;19.157;4182
+P057.43;Pentanedecanitrile;46;23.86;11864
+P091.03;Benzeneacetaldehyde;47;9.76;7049
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;47;10.481;13410
+P057.24;2,2-Dimethyldecane;47;11.523;48291
+P069.16;Nonylcyclopropane;47;12.957;156881
+P057.35;2,2-Dimethyltetradecane;47;19.211;3319783
+P085.06;Unidentified compound 23;47;30.837;3847
+P057.01;Methyl propanoate;50;2.484;39162
+P091.03;Benzeneacetaldehyde;50;9.744;6096
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;50;10.47;9444
+P069.13;Unidentified compound 10;50;11.569;9375
+P060.05;Octanoic acid;50;12.493;51528
+P069.16;Nonylcyclopropane;50;12.944;60834
+P057.35;2,2-Dimethyltetradecane;50;19.2;1692431
+P054.01;Unidentified compound 03;51;5.22;3644
+P057.22;Nonanal;51;11.106;80890
+P057.24;2,2-Dimethyldecane;51;11.552;43985
+P043.06.32;Unidentified compound 16;51;20.767;73460
+P043.06.44;Unidentified compound 20;51;26.018;6683
+P043.06.47;Unidentified compound 22;51;28.682;15393
+P105.03;Unknown benzene derivative 2;53;12.332;10826
+P030.03;4,6-Dimethyldodecane;53;13.884;185915
+P043.06.25;Unidentified compound 13;53;16.664;153064
+P059.05;2-Methyldodecan-2-ol;53;17.649;192320
+P057.35;2,2-Dimethyltetradecane;53;19.196;916630
+P059.07;Unknown branched alcohol;53;21.166;359442
+P103.02;Benzonitrile;54;8.289;2157
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;54;10.485;9731
+P060.05;Octanoic acid;54;12.461;10253
+P069.16;Nonylcyclopropane;54;12.963;63411
+P057.35;2,2-Dimethyltetradecane;54;19.214;1682851
+P098.02;Unidentified compound 05;55;7.06;7217
+P103.02;Benzonitrile;55;8.299;3369
+P057.22;Nonanal;55;11.103;69326
+P057.43;Pentanedecanitrile;55;23.859;149672
+P059.05;2-Methyldodecan-2-ol;56;17.692;263731
+P059.07;Unknown branched alcohol;56;21.209;593757
+P057.43;Pentanedecanitrile;56;23.861;44644
+P091.03;Benzeneacetaldehyde;57;9.757;5507
+P057.24;2,2-Dimethyldecane;57;11.528;34312
+P069.16;Nonylcyclopropane;57;12.961;48099
+P057.35;2,2-Dimethyltetradecane;57;19.212;1702508
+P057.43;Pentanedecanitrile;57;23.834;18388
+P069.16;Nonylcyclopropane;58;12.942;19947
+P030.03;4,6-Dimethyldodecane;58;13.879;3417
+P057.35;2,2-Dimethyltetradecane;58;19.194;21067
+P059.07;Unknown branched alcohol;58;21.161;12551
+P057.43;Pentanedecanitrile;58;23.819;7213
+P060.02;Butanoic acid;60;4.575;1992538
+P103.02;Benzonitrile;60;8.27;4286
+P091.03;Benzeneacetaldehyde;60;9.753;6604
+P069.16;Nonylcyclopropane;60;12.946;60762
+P043.06.25;Unidentified compound 13;60;16.666;71964
+P059.05;2-Methyldodecan-2-ol;60;17.649;65928
+P057.35;2,2-Dimethyltetradecane;60;19.195;325100
+P059.07;Unknown branched alcohol;60;21.166;147557
+P054.01;Unidentified compound 03;61;5.235;5109
+P091.03;Benzeneacetaldehyde;61;9.776;3241
+P105.03;Unknown benzene derivative 2;61;12.388;3333
+P057.35;2,2-Dimethyltetradecane;61;19.214;1917107
+P121.02;Unidentified compound 15;61;19.389;23981
+P069.16;Nonylcyclopropane;63;12.953;73500
+P059.05;2-Methyldodecan-2-ol;63;17.657;78566
+P057.35;2,2-Dimethyltetradecane;63;19.206;2000525
+P121.02;Unidentified compound 15;63;19.384;29133
+P059.07;Unknown branched alcohol;63;21.175;97846
+P109.01;Unidentified compound 19;63;23.077;24654
+P057.43;Pentanedecanitrile;63;23.828;33279
+P069.16;Nonylcyclopropane;64;12.942;14586
+P057.35;2,2-Dimethyltetradecane;64;19.195;290028
+P057.36;Tridecan-1-ol;64;20.219;10082
+P057.43;Pentanedecanitrile;64;23.817;19095
+P060.02;Butanoic acid;67;4.471;1023584
+P103.02;Benzonitrile;67;8.283;2624
+P030.03;4,6-Dimethyldodecane;67;13.904;77430
+P057.35;2,2-Dimethyltetradecane;67;19.218;1622364
+P059.07;Unknown branched alcohol;67;21.19;29788
+P057.43;Pentanedecanitrile;67;23.846;21942
+P070.02;Unidentified compound 09;70;11.315;454261
+P030.03;4,6-Dimethyldodecane;70;13.885;618656
+P043.06.25;Unidentified compound 13;70;16.666;140547
+P059.05;2-Methyldodecan-2-ol;70;17.651;117025
+P057.35;2,2-Dimethyltetradecane;70;19.195;1169735
+P059.07;Unknown branched alcohol;70;21.166;203987
+P069.16;Nonylcyclopropane;71;12.954;185755
+P057.35;2,2-Dimethyltetradecane;71;19.207;2065727
+P121.02;Unidentified compound 15;71;19.385;28492
+P057.01;Methyl propanoate;76.1;2.48;46687
+P103.02;Benzonitrile;76.1;8.256;7022
+P091.03;Benzeneacetaldehyde;76.1;9.748;2850
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;76.1;10.465;18471
+P057.24;2,2-Dimethyldecane;76.1;11.509;45499
+P069.13;Unidentified compound 10;76.1;11.567;12392
+P069.16;Nonylcyclopropane;76.1;12.944;92120
+P057.35;2,2-Dimethyltetradecane;76.1;19.197;2122893
+P059.07;Unknown branched alcohol;76.1;21.161;5817
+P060.02;Butanoic acid;77;4.655;3032029
+P069.16;Nonylcyclopropane;77;12.944;141054
+P043.06.25;Unidentified compound 13;77;16.662;109857
+P059.05;2-Methyldodecan-2-ol;77;17.651;176201
+P057.35;2,2-Dimethyltetradecane;77;19.194;516216
+P059.07;Unknown branched alcohol;77;21.166;375131
+P057.43;Pentanedecanitrile;77;23.823;103160
+P091.03;Benzeneacetaldehyde;78;9.761;3550
+P069.16;Nonylcyclopropane;78;12.958;26943
+P030.03;4,6-Dimethyldodecane;78;14.007;15216
+P057.35;2,2-Dimethyltetradecane;78;19.211;1827913
+P059.07;Unknown branched alcohol;78;21.183;6654
+P057.43;Pentanedecanitrile;78;23.835;204587
+P057.22;Nonanal;79;11.101;73340
+P059.05;2-Methyldodecan-2-ol;79;17.692;7559
+P103.02;Benzonitrile;81;8.258;514
+P091.03;Benzeneacetaldehyde;81;9.754;3801
+P057.18;Unknown C12 branched alkane 1;81;10.812;32110
+P069.16;Nonylcyclopropane;81;12.947;162025
+P057.35;2,2-Dimethyltetradecane;81;19.198;1185781
+P121.02;Unidentified compound 15;81;19.376;25250
+P057.43;Pentanedecanitrile;81;23.931;113891
+P085.06;Unidentified compound 23;81;30.831;4203
+P057.18;Unknown C12 branched alkane 1;17856;10.763;39167
+P060.05;Octanoic acid;17856;12.358;11176
+P042.03;Methenamide;17856;13.596;38064
+P043.06.37;Unidentified compound 17;17856;22.099;15358
+P057.43;Pentanedecanitrile;17856;23.913;9501
+P085.05;Unidentified compound 21;17856;27.991;17459
+P059.13;Unknown amide 2;17856;30.222;6880
+P091.03;Benzeneacetaldehyde;17857;9.613;252934
+P069.14;Unidentified compound 11;17857;12.016;1475
+P043.06.37;Unidentified compound 17;17857;22.085;2549
+P073.11;Pentadecanoic acid;17857;23.84;10282
+P057.01;Methyl propanoate;17867;2.414;379782
+P098.02;Unidentified compound 05;17867;6.973;1422
+P091.04;Unknown benzene derivative 3;17867;21.089;24942
+P088.01;Unknown branched carboxylic acid;17867;26.485;6162
+P085.05;Unidentified compound 21;17867;27.955;25122
+P059.12;Unknown amide 1;17867;28.977;63154
+P069.13;Unidentified compound 10;17872;11.504;1360
+P069.14;Unidentified compound 11;17872;11.908;1792
+P091.04;Unknown benzene derivative 3;17872;21.109;3581
+P057.18;Unknown C12 branched alkane 1;17873;10.727;25183
+P060.05;Octanoic acid;17873;12.38;26512
+P042.03;Methenamide;17873;13.608;122260
+P091.04;Unknown benzene derivative 3;17873;21.091;3775
+P085.06;Unidentified compound 23;17873;30.648;5481
+P091.03;Benzeneacetaldehyde;17876;9.624;228056
+P088.01;Unknown branched carboxylic acid;17876;26.465;3372
+P091.01;Methylbenzene;17881;3.956;12851
+P098.02;Unidentified compound 05;17881;6.951;2971
+P091.04;Unknown benzene derivative 3;17881;21.15;8655
+P059.11;Nonanamide;17881;27.604;28355
+P059.13;Unknown amide 2;17881;30.258;9873
+P106.01;Benzaldehyde;17882;7.823;1461
+P105.03;Unknown benzene derivative 2;17882;12.458;4808
+P091.04;Unknown benzene derivative 3;17882;21.144;3104
+P106.01;Benzaldehyde;17886;7.766;6153
+P069.14;Unidentified compound 11;17886;11.873;2443
+P060.05;Octanoic acid;17886;12.35;1647
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17886;13.158;8157
+P067.02;Unknown C14 branched alkane;17886;16.769;1660
+P055.24;Unidentified compound 14;17886;16.916;1988
+P091.04;Unknown benzene derivative 3;17886;21.081;7912
+P057.43;Pentanedecanitrile;17886;23.808;15525
+P069.25;(E)-Hexadec-9-en-1-ol;17886;24.8;3678
+P098.02;Unidentified compound 05;17887;7.118;1056
+P041.03;Unknown C11 branched alkane;17887;9.793;7131
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17887;13.128;49912
+P057.43;Pentanedecanitrile;17887;23.789;9894
+P055.06;Unidentified compound 04;17888;6.865;6421
+P091.03;Benzeneacetaldehyde;17888;9.668;1144
+P069.14;Unidentified compound 11;17888;11.917;3725
+P042.03;Methenamide;17888;13.635;14098
+P055.24;Unidentified compound 14;17888;16.975;3917
+P091.04;Unknown benzene derivative 3;17888;21.136;2611
+P088.01;Unknown branched carboxylic acid;17888;26.465;7628
+P085.05;Unidentified compound 21;17888;27.939;14254
+P069.06;Unidentified compound 06;17891;10.112;1101
+P044.05;Unidentified compound 07;17891;10.722;2746
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17891;13.154;13825
+P091.04;Unknown benzene derivative 3;17891;21.078;2447
+P043.06.37;Unidentified compound 17;17891;22.063;15401
+P057.43;Pentanedecanitrile;17891;23.799;8929
+P059.11;Nonanamide;17891;27.528;8194
+P091.01;Methylbenzene;17893;3.955;3271
+P069.11;Unidentified compound 08;17893;11.018;4688
+P105.03;Unknown benzene derivative 2;17893;12.4;1228
+P091.03;Benzeneacetaldehyde;17896;9.635;6339
+P105.03;Unknown benzene derivative 2;17896;12.431;17877
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17896;13.124;11070
+P091.04;Unknown benzene derivative 3;17896;21.078;10632
+P057.43;Pentanedecanitrile;17896;23.857;25901
+P073.11;Pentadecanoic acid;17896;23.864;2188
+P091.03;Benzeneacetaldehyde;17898;9.634;6102
+P091.04;Unknown benzene derivative 3;17898;21.108;33205
+P059.11;Nonanamide;17898;27.559;40186
+P059.13;Unknown amide 2;17898;30.206;20647
+P060.05;Octanoic acid;17901;12.364;1537
+P091.04;Unknown benzene derivative 3;17901;21.14;6887
+P043.04;Acetic acid;17902;3.195;1091563
+P060.05;Octanoic acid;17902;12.306;18158
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17902;13.142;68550
+P091.04;Unknown benzene derivative 3;17902;21.046;15463
+P057.43;Pentanedecanitrile;17902;23.77;35798
+P055.06;Unidentified compound 04;17907;6.862;11900
+P060.05;Octanoic acid;17907;12.307;4383
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17907;13.149;5550
+P057.43;Pentanedecanitrile;17907;23.851;7427
+P103.02;Benzonitrile;17908;8.295;48814
+P044.05;Unidentified compound 07;17908;10.689;8271
+P060.05;Octanoic acid;17908;12.327;9200
+P042.03;Methenamide;17908;13.579;32983
+P057.43;Pentanedecanitrile;17908;23.835;3275
+P069.25;(E)-Hexadec-9-en-1-ol;17908;24.832;2400
+P059.11;Nonanamide;17908;27.551;25936
+P057.18;Unknown C12 branched alkane 1;17911;10.76;14565
+P057.23;Unknown C12 branched alkane 2;17911;11.328;12165
+P060.05;Octanoic acid;17911;12.398;99500
+P105.03;Unknown benzene derivative 2;17911;12.448;4791
+P091.04;Unknown benzene derivative 3;17911;21.096;23357
+P057.43;Pentanedecanitrile;17911;23.877;17663
+P059.11;Nonanamide;17911;27.608;29658
+P059.13;Unknown amide 2;17911;30.261;17061
+P055.06;Unidentified compound 04;17912;6.815;2673
+P098.02;Unidentified compound 05;17912;6.979;1800
+P091.04;Unknown benzene derivative 3;17912;21.073;6932
+P043.06.37;Unidentified compound 17;17912;22.112;25472
+P057.43;Pentanedecanitrile;17912;23.759;9920
+P059.11;Nonanamide;17912;27.585;36541
+P059.13;Unknown amide 2;17912;30.222;17353
+P091.03;Benzeneacetaldehyde;17913;9.682;595
+P091.04;Unknown benzene derivative 3;17913;21.12;1237
+P074.03;Unknown branched ester;17913;25.513;4157
+P085.05;Unidentified compound 21;17913;27.942;1496
+P085.06;Unidentified compound 23;17913;30.678;2579
+P054.01;Unidentified compound 03;17914;5.231;10715
+P060.05;Octanoic acid;17914;12.336;12111
+P069.15;Unidentified compound 12;17914;12.659;8752
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17914;13.144;41815
+P067.02;Unknown C14 branched alkane;17914;16.753;2556
+P091.04;Unknown benzene derivative 3;17914;21.076;4023
+P057.43;Pentanedecanitrile;17914;23.793;9768
+P069.25;(E)-Hexadec-9-en-1-ol;17914;24.793;4773
+P057.43;Pentanedecanitrile;17918;23.755;10860
+P057.01;Methyl propanoate;17921;2.415;16594
+P091.03;Benzeneacetaldehyde;17921;9.662;5035
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;17921;10.502;5620
+P057.23;Unknown C12 branched alkane 2;17921;11.32;8562
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17921;13.144;10703
+P091.04;Unknown benzene derivative 3;17921;21.093;5796
+P069.25;(E)-Hexadec-9-en-1-ol;17921;24.881;1982
+P059.11;Nonanamide;17921;27.606;88316
+P059.13;Unknown amide 2;17921;30.253;67502
+P091.04;Unknown benzene derivative 3;17922;21.029;8355
+P057.43;Pentanedecanitrile;17922;23.843;7734
+P103.02;Benzonitrile;17924;8.298;26761
+P060.05;Octanoic acid;17924;12.36;21539
+P091.04;Unknown benzene derivative 3;17924;21.116;6176
+P059.13;Unknown amide 2;17924;30.217;6907
+P041.03;Unknown C11 branched alkane;17926;9.798;4753
+P057.43;Pentanedecanitrile;17926;23.848;14188
+P059.11;Nonanamide;17926;27.505;30000
+P106.01;Benzaldehyde;17932;7.777;3098
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17932;13.174;12984
+P057.43;Pentanedecanitrile;17932;23.836;4655
+P059.11;Nonanamide;17932;27.56;43276
+P091.04;Unknown benzene derivative 3;17936;21.038;5534
+P057.43;Pentanedecanitrile;17936;23.76;18262
+P091.03;Benzeneacetaldehyde;17943;9.619;3617
+P060.05;Octanoic acid;17943;12.35;2441
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17943;13.094;5676
+P069.25;(E)-Hexadec-9-en-1-ol;17943;24.791;44070
+P106.01;Benzaldehyde;17947;7.817;638
+P093.02;D-Limonene;17947;9.026;1273
+P069.15;Unidentified compound 12;17947;12.691;11707
+P069.16;Nonylcyclopropane;17947;12.922;4297
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17947;13.165;36100
+P091.04;Unknown benzene derivative 3;17947;21.067;4111
+P057.43;Pentanedecanitrile;17947;23.854;17836
+P059.13;Unknown amide 2;17947;30.223;15178
+P096.02;Unidentified compound 02;17951;5.1;10403
+P098.02;Unidentified compound 05;17951;7.032;2435
+P106.01;Benzaldehyde;17951;7.775;4062
+P091.03;Benzeneacetaldehyde;17951;9.623;1248
+P057.18;Unknown C12 branched alkane 1;17951;10.918;4477
+P069.15;Unidentified compound 12;17951;12.659;8055
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17951;13.14;36307
+P091.04;Unknown benzene derivative 3;17951;21.062;12625
+P057.43;Pentanedecanitrile;17951;23.777;9709
+P091.03;Benzeneacetaldehyde;17955;9.623;124957
+P057.18;Unknown C12 branched alkane 1;17955;10.912;2437
+P055.24;Unidentified compound 14;17955;16.95;1104
+P106.01;Benzaldehyde;17956;7.81;2050
+P091.04;Unknown benzene derivative 3;17956;21.065;2938
+P057.01;Methyl propanoate;17957;2.415;111178
+P060.05;Octanoic acid;17957;12.323;3483
+P091.04;Unknown benzene derivative 3;17957;21.063;12997
+P071.01;Unidentified compound 01;17961;3.002;8591
+P091.03;Benzeneacetaldehyde;17961;9.636;167569
+P105.03;Unknown benzene derivative 2;17961;12.385;1053736
+P074.03;Unknown branched ester;17961;25.519;5510
+P091.01;Methylbenzene;17962;3.949;629
+P096.02;Unidentified compound 02;17962;5.16;1834
+P105.03;Unknown benzene derivative 2;17962;12.325;2528
+P091.04;Unknown benzene derivative 3;17962;21.153;6576
+P057.43;Pentanedecanitrile;17962;23.881;9642
+P060.05;Octanoic acid;17963;12.328;26012
+P105.03;Unknown benzene derivative 2;17963;12.396;3017
+P069.15;Unidentified compound 12;17963;12.665;2454
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17963;13.141;61254
+P091.04;Unknown benzene derivative 3;17963;21.071;13545
+P043.06.37;Unidentified compound 17;17963;22.056;31486
+P057.43;Pentanedecanitrile;17963;23.87;36024
+P069.25;(E)-Hexadec-9-en-1-ol;17963;24.79;557081
+P059.13;Unknown amide 2;17963;30.176;3384
+P096.02;Unidentified compound 02;17965;5.16;1540
+P091.03;Benzeneacetaldehyde;17965;9.613;4480
+P041.03;Unknown C11 branched alkane;17965;9.795;15558
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;17965;13.137;21986
+P057.35;2,2-Dimethyltetradecane;17965;19.035;2336
+P091.04;Unknown benzene derivative 3;17965;21.005;9120
+P059.11;Nonanamide;17965;27.503;36484
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;20805;13.138;11490
+P091.04;Unknown benzene derivative 3;20805;21.054;17662
+P057.43;Pentanedecanitrile;20805;23.778;7559
+P098.02;Unidentified compound 05;20880;6.977;2473
+P106.01;Benzaldehyde;20880;7.797;2875
+P060.05;Octanoic acid;20880;12.352;9862
+P042.03;Methenamide;20880;13.597;52362
+P057.36;Tridecan-1-ol;20880;20.084;7746
+P091.04;Unknown benzene derivative 3;20880;21.084;6184
+P057.43;Pentanedecanitrile;20880;23.945;32425
+P069.25;(E)-Hexadec-9-en-1-ol;20880;24.85;4116
+P085.05;Unidentified compound 21;20880;27.94;13552
+P096.02;Unidentified compound 02;20882;5.164;1342
+P091.04;Unknown benzene derivative 3;20882;21.024;3156
+P043.06.37;Unidentified compound 17;20882;22.061;3524
+P043.06.37;Unidentified compound 17;20884;22.084;3342
+P074.03;Unknown branched ester;20885;25.437;3308
+P091.01;Methylbenzene;20888;3.978;49303
+P098.02;Unidentified compound 05;20888;7.022;2160
+P057.43;Pentanedecanitrile;20888;23.851;7566
+P043.06.47;Unidentified compound 22;20888;28.65;1651
+P055.06;Unidentified compound 04;20893;6.866;8985
+P069.14;Unidentified compound 11;20893;11.93;3287
+P105.03;Unknown benzene derivative 2;20893;12.342;4482
+P091.04;Unknown benzene derivative 3;20893;21.153;12854
+P055.28;Unidentified compound 18;20893;22.143;11295
+P059.12;Unknown amide 1;20893;28.973;20255
+P059.13;Unknown amide 2;20893;30.258;9319
+P057.01;Methyl propanoate;20894;2.419;132325
+P091.01;Methylbenzene;20894;4.018;547
+P055.24;Unidentified compound 14;20894;16.992;1429
+P059.11;Nonanamide;20894;27.5;10488
+P091.04;Unknown benzene derivative 3;20903;21.062;5843
+P043.06.25;Unidentified compound 13;32134;16.734;13347
+P055.24;Unidentified compound 14;32141;16.92;3160
+P091.04;Unknown benzene derivative 3;32141;21.059;5765
+P043.06.37;Unidentified compound 17;32141;22.07;18983
+P043.04;Acetic acid;32146;3.16;47348
+P093.02;D-Limonene;32146;9.151;8004
+P041.03;Unknown C11 branched alkane;32146;9.752;48400
+P057.24;2,2-Dimethyldecane;32146;11.693;28717
+P069.16;Nonylcyclopropane;32146;12.94;34295
+P091.04;Unknown benzene derivative 3;32146;21.066;20456
+P073.11;Pentadecanoic acid;32146;23.869;134721
+P059.11;Nonanamide;32146;27.637;5683
+P093.01;Unknown benzene derivative 1;32149;7.375;11509
+P043.06.44;Unidentified compound 20;32149;25.949;25167
+P041.03;Unknown C11 branched alkane;32150;9.746;9920
+P069.16;Nonylcyclopropane;32150;12.935;2156
+P055.24;Unidentified compound 14;32150;16.916;2116
+P043.06.37;Unidentified compound 17;32150;22.073;7770
+P093.01;Unknown benzene derivative 1;32153;7.38;17140
+P069.09;1-Methyl-2-(3-methylpentyl)cyclopropane;32153;10.48;15839
+P091.04;Unknown benzene derivative 3;32153;21.057;4813
+P043.06.47;Unidentified compound 22;32153;28.704;160065
+P069.16;Nonylcyclopropane;32156;12.931;2009
+P043.06.37;Unidentified compound 17;32156;22.078;22879
+P069.11;Unidentified compound 08;32158;11;2490
+P091.04;Unknown benzene derivative 3;32158;21.051;2439
+P055.06;Unidentified compound 04;32179;6.825;7197
+P093.01;Unknown benzene derivative 1;32179;7.377;4238
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32179;12.97;108142
+P096.02;Unidentified compound 02;32182;5.128;5367
+P093.02;D-Limonene;32182;9.146;4737
+P091.03;Benzeneacetaldehyde;32182;9.75;1561
+P041.03;Unknown C11 branched alkane;32182;9.753;16794
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32182;12.978;30720
+P091.04;Unknown benzene derivative 3;32182;21.062;8832
+P093.02;D-Limonene;32184;9.139;2926
+P057.24;2,2-Dimethyldecane;32184;11.688;12719
+P069.16;Nonylcyclopropane;32184;12.93;17611
+P067.02;Unknown C14 branched alkane;32184;16.713;1635
+P091.04;Unknown benzene derivative 3;32184;21.057;1890
+P057.18;Unknown C12 branched alkane 1;32186;10.813;2853
+P073.11;Pentadecanoic acid;32186;23.866;60224
+P041.03;Unknown C11 branched alkane;32190;9.756;21984
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32190;12.989;16726
+P091.04;Unknown benzene derivative 3;32190;21.062;7132
+P055.06;Unidentified compound 04;32192;6.843;1853
+P041.03;Unknown C11 branched alkane;32192;9.748;5392
+P091.04;Unknown benzene derivative 3;32192;21.053;8162
+P069.25;(E)-Hexadec-9-en-1-ol;32192;24.828;49166
+P059.11;Nonanamide;32192;27.633;175801
+P093.02;D-Limonene;32193;9.141;22275
+P091.04;Unknown benzene derivative 3;32193;21.066;5001
+P093.02;D-Limonene;32194;9.14;28890
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32194;12.99;7528
+P093.02;D-Limonene;32197;9.14;5099
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32197;12.993;6778
+P091.01;Methylbenzene;32199;4.112;554
+P055.06;Unidentified compound 04;32199;6.906;2070
+P091.04;Unknown benzene derivative 3;32199;21.063;10418
+P106.01;Benzaldehyde;32207;7.81;2352
+P069.16;Nonylcyclopropane;32207;12.921;3001
+P043.06.37;Unidentified compound 17;32207;22.138;2501
+P071.01;Unidentified compound 01;32218;2.968;7208
+P041.03;Unknown C11 branched alkane;32218;9.747;5245
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32218;12.967;35656
+P069.13;Unidentified compound 10;32223;11.471;4288
+P069.16;Nonylcyclopropane;32223;12.923;3389
+P067.02;Unknown C14 branched alkane;32223;16.709;16723
+P091.04;Unknown benzene derivative 3;32223;21.052;15061
+P091.04;Unknown benzene derivative 3;32224;21.058;29167
+P043.06.47;Unidentified compound 22;32224;28.699;75787
+P041.03;Unknown C11 branched alkane;32225;9.758;5518
+P069.11;Unidentified compound 08;32225;10.979;3375
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32225;12.978;39138
+P091.04;Unknown benzene derivative 3;32225;21.063;12577
+P059.11;Nonanamide;32225;27.639;9788
+P093.01;Unknown benzene derivative 1;32229;7.378;8534
+P041.03;Unknown C11 branched alkane;32229;9.74;6637
+P069.16;Nonylcyclopropane;32229;12.933;1670
+P067.02;Unknown C14 branched alkane;32229;16.716;9710
+P091.04;Unknown benzene derivative 3;32229;21.053;1954
+P073.11;Pentadecanoic acid;32229;23.872;9245
+P055.06;Unidentified compound 04;32231;6.826;934
+P041.03;Unknown C11 branched alkane;32231;9.75;7689
+P069.16;Nonylcyclopropane;32231;12.925;4155
+P091.04;Unknown benzene derivative 3;32231;21.071;3043
+P093.01;Unknown benzene derivative 1;32232;7.389;5811
+P093.02;D-Limonene;32232;9.152;13593
+P069.16;Nonylcyclopropane;32232;12.939;22895
+P030.03;4,6-Dimethyldodecane;32232;13.963;46622
+P091.04;Unknown benzene derivative 3;32232;21.059;12307
+P093.01;Unknown benzene derivative 1;32233;7.378;6420
+P093.02;D-Limonene;32233;9.143;5409
+P041.03;Unknown C11 branched alkane;32233;9.748;19301
+P069.16;Nonylcyclopropane;32233;12.932;13930
+P091.04;Unknown benzene derivative 3;32233;21.059;10546
+P059.11;Nonanamide;32233;27.636;20468
+P043.06.47;Unidentified compound 22;32233;28.701;61566
+P093.01;Unknown benzene derivative 1;32234;7.383;35859
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32234;12.984;31177
+P091.04;Unknown benzene derivative 3;32234;21.063;11728
+P043.06.37;Unidentified compound 17;32234;22.08;18496
+P059.11;Nonanamide;32234;27.631;13119
+P096.02;Unidentified compound 02;32238;5.1;4607
+P093.01;Unknown benzene derivative 1;32238;7.368;8519
+P091.04;Unknown benzene derivative 3;32238;21.058;12337
+P069.25;(E)-Hexadec-9-en-1-ol;32238;24.857;2924
+P043.06.44;Unidentified compound 20;32238;25.95;14770
+P093.02;D-Limonene;32240;9.149;7016
+P069.13;Unidentified compound 10;32240;11.483;8152
+P091.04;Unknown benzene derivative 3;32240;21.057;85830
+P069.25;(E)-Hexadec-9-en-1-ol;32240;24.857;3694
+P043.06.47;Unidentified compound 22;32240;28.7;20061
+P093.01;Unknown benzene derivative 1;32248;7.377;8805
+P093.02;D-Limonene;32248;9.142;5721
+P041.03;Unknown C11 branched alkane;32248;9.748;22379
+P091.04;Unknown benzene derivative 3;32248;21.056;8086
+P043.06.47;Unidentified compound 22;32248;28.696;15775
+P055.06;Unidentified compound 04;32249;6.832;4375
+P093.02;D-Limonene;32249;9.143;10865
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32249;12.967;131557
+P091.04;Unknown benzene derivative 3;32249;21.062;8893
+P069.25;(E)-Hexadec-9-en-1-ol;32249;24.834;20577
+P057.01;Methyl propanoate;32250;2.398;35403
+P043.04;Acetic acid;32250;3.219;1153963
+P093.01;Unknown benzene derivative 1;32250;7.369;25181
+P069.25;(E)-Hexadec-9-en-1-ol;32250;24.828;9685
+P043.06.47;Unidentified compound 22;32250;28.7;40901
+P043.04;Acetic acid;32254;3.168;83559
+P055.06;Unidentified compound 04;32254;6.826;8059
+P093.01;Unknown benzene derivative 1;32254;7.379;18113
+P093.02;D-Limonene;32254;9.143;8221
+P069.16;Nonylcyclopropane;32254;12.926;17603
+P091.04;Unknown benzene derivative 3;32254;21.055;29104
+P043.06.37;Unidentified compound 17;32254;22.069;11166
+P043.06.47;Unidentified compound 22;32254;28.705;121823
+P093.02;D-Limonene;32256;9.14;7264
+P069.18;1,4:3,6-Dianhydro-alpha-D-glucopyranose;32256;12.968;42306
+P043.06.37;Unidentified compound 17;32256;22.07;29837
+P059.11;Nonanamide;32256;27.629;34169
+P043.06.47;Unidentified compound 22;32256;28.701;74901
+P093.02;D-Limonene;32259;9.148;32332
+P041.03;Unknown C11 branched alkane;32259;9.756;160725
+P091.03;Benzeneacetaldehyde;32259;9.806;2113
+P069.13;Unidentified compound 10;32259;11.496;31597
+P069.16;Nonylcyclopropane;32259;12.935;55431
+P091.04;Unknown benzene derivative 3;32259;21.057;18228
+P043.06.37;Unidentified compound 17;32259;22.079;89669
+P059.11;Nonanamide;32259;27.637;27670
+P043.06.47;Unidentified compound 22;32259;28.702;41832
+P085.06;Unidentified compound 23;32259;30.813;2156
+P093.01;Unknown benzene derivative 1;32264;7.372;8246
+P093.02;D-Limonene;32264;9.14;8475
+P069.06;Unidentified compound 06;32264;9.952;7769
+P069.16;Nonylcyclopropane;32264;12.931;18146
+P091.04;Unknown benzene derivative 3;32264;21.054;12394
+P043.06.47;Unidentified compound 22;32264;28.701;185093
